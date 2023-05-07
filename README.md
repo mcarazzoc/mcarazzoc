@@ -1,4 +1,4 @@
-👋 Hi there! My name is Maurício and I'm an Electrical Engineer based in Brazil. I graduated from UFSM with a focus on power systems and electromagnetism.
+👋 Hi there! My name is Maurício and I'm an Electrical Engineer based in Brazil. I graduated at UFSM focusing on Power Electronics and electrical machine control.
 
 Currently, I work in the R&D department at WEG Equipamentos Eletricos S/A, where I collaborate on product line development and perform simulations using Ansys Maxwell. 📚📝
 
